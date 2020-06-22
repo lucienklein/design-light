@@ -4,7 +4,7 @@
       <v-col cols="auto" align="center">
         <v-img src="@/assets/logo.png" class="img" contain></v-img>
         <hr />
-        <h2>Working in progress</h2>
+        <h2>Site en construction</h2>
       </v-col>
     </v-row>
   </v-container>
